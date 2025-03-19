@@ -18,7 +18,6 @@ I'm a passionate developer with a focus on **Python**, automation, cybersecurity
 - **Version Control**: Git, GitHub
 
 ## 📌 Current Projects
-- 🏇 **PMU Data Automation**: Extracting horse racing data from the PMU API.
 - 🌍 **Web Development Projects**: Creating responsive and interactive websites.
 - 📢 **Ad Management System**: Automating Facebook Ads for better ROI.
 - ⚙️ **Python Mastery**: Expanding my knowledge to monetize my coding skills.
