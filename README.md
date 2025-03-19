@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Nanaelie!
 
-<!--
-**nanaelie/nanaelie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer with a focus on **Python**, automation, cybersecurity, and web development. I use **Parrot Security OS** as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
 
-Here are some ideas to get you started:
+## 💡 What I Do
+- 🐍 **Python Development**: Automating tasks, web scraping, and backend development.
+- 🌐 **Web Development**: Building dynamic websites and applications.
+- 🔐 **Cybersecurity & Ethical Hacking**: Enhancing security and exploring vulnerabilities.
+- 📊 **Data Collection & Analysis**: Extracting and processing valuable information.
+- 📢 **Digital Marketing**: Running Facebook Ads for product visibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Python, Bash, JavaScript, HTML, CSS
+- **Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask, Django
+- **OS**: Parrot Security OS, Linux-based distros
+- **Version Control**: Git, GitHub
+
+## 📌 Current Projects
+- 🏇 **PMU Data Automation**: Extracting horse racing data from the PMU API.
+- 🌍 **Web Development Projects**: Creating responsive and interactive websites.
+- 📢 **Ad Management System**: Automating Facebook Ads for better ROI.
+- ⚙️ **Python Mastery**: Expanding my knowledge to monetize my coding skills.
+
+## 🌍 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/nanaelie)
+- 🐦 [Twitter](https://twitter.com/Garcon_Serieuxx)
+- 📫 Email: elienana92@gmail.com
+
+Let's build something amazing together! 🚀
+
