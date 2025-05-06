@@ -1,3 +1,5 @@
+[![Profile views](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/951446214/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/951446214/week.md)
+
 # 👋 Hello, I'm Elie!
 
 ## 🚀 About Me
