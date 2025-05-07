@@ -41,17 +41,19 @@
   💡 What I Do
 </h1>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <br />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
@@ -61,13 +63,17 @@
   <img src="https://img.shields.io/badge/Wokwi-27AE60?logo=arduino&logoColor=white&style=for-the-badge" />
 </p>
 
+<br />
+
 - 🐍&emsp;**Python Development**: Automating tasks, web scraping, and backend development.
 - 🌐&emsp;**Web Development**: Building dynamic websites and applications.
 - 🔐&emsp;**Cybersecurity & Ethical Hacking**: Enhancing security and exploring vulnerabilities.
 - 📊&emsp;**Data Collection & Analysis**: Extracting and processing valuable information.
 - 📢&emsp;**Digital Marketing**: Running Facebook Ads for product visibility.
 
-## 🛠️ Tech Stack
+<h1 align="center">
+  🛠️ Tech Stack
+</h1>
 
 - &emsp;**Languages**: Python, Bash, JavaScript, HTML, CSS
 - &emsp;**Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask
