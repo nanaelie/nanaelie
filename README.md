@@ -71,6 +71,8 @@
 - 📊&emsp;**Data Collection & Analysis**: Extracting and processing valuable information.
 - 📢&emsp;**Digital Marketing**: Running Facebook Ads for product visibility.
 
+<br />
+
 <h1 align="center">
   🛠️ Tech Stack
 </h1>
@@ -80,38 +82,44 @@
 - &emsp;**OS**: Parrot Security OS, Linux-based distros
 - &emsp;**Version Control**: Git, GitHub
 
-## 📌 Current Projects
+<br />
+
+<h1 align="center">
+  📌 Current Projects
+</h1>
 
 - 🌍&emsp;**Web Development**: Building responsive, user-friendly websites with modern frameworks.  
 - 📢&emsp;**Ad Management Automation**: Developing a system to optimize and automate Facebook Ads for better ROI.  
 - ⚙️&emsp;**Python Monetization**: Deepening my Python expertise to create and sell practical tools and bots.
 
-## 🌍 Connect with Me
+<br />
 
-<p align="center">
-Let's build something amazing together! 🚀
-</p>
+<h1 align="center">
+  🌍 Connect with Me
+</h1>
+
+<p align="center">Let's build something amazing together! 🚀</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nanaelie" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-3775A9?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-
   <a href="https://twitter.com/@nae_devp" target="_blank" >
     <img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-
-  <a href="https://twitter.com/@nae_devp" target="_blank" >
+  <a href="https://instagram.com/nanaelie.nae" target="_blank" >
     <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
-
   <a href="mailto:nae.devp@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Mail_Me-green?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  
 </p>
 
-## GitHub Stats 🌱
+<br />
+
+<h1 align="center">
+  GitHub Stats 🌱
+</h1>
 
 <p align="center">
   <a href="https://github.com/nanaelie">
@@ -123,9 +131,12 @@ Let's build something amazing together! 🚀
 </p>
 
 <a>
-    <a href="https://github.com/nanaelie"><img alt="Nana Elie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nanaelie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/nanaelie"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nanaelie&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+    <a href="https://github.com/nanaelie">
+      <img alt="Nana Elie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nanaelie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
+    <a href="https://github.com/nanaelie">
+      <img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nanaelie&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
 </a>
 
 ![Nana Elie's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nanaelie&custom_title=Nana%20Elie's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
