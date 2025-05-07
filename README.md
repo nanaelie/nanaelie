@@ -1,4 +1,4 @@
-[![Profile views](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/951446214/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/951446214/week.md)
+[![Profile views](https://nanaelie.github.io/my-profile-views-counter/svg/951446214/badge.svg)](https://nanaelie.github.io/my-profile-views-counter/readme/951446214/week.md)
 
 # 👋 Hello, I'm Elie!
 
