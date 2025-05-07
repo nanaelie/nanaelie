@@ -27,11 +27,19 @@
 
 ---
 
-## 🚀 About Me
+<h1 align="center">
+  🚀 About Me
+</h1>
 
-I'm a passionate developer with a focus on **Python**, automation, cybersecurity, and web development. I use **Parrot Security OS** as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
+<p align="center">
+  I'm a passionate developer with a focus on <b>Python</b>, automation, cybersecurity, and web development.<br />I use <b>Parrot Security OS</b> as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
+</p>
 
-## 💡 What I Do
+<br />
+
+<h1 align="center">
+  💡 What I Do
+</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
