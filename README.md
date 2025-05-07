@@ -1,4 +1,4 @@
-[![Profile views](https://nanaelie.github.io/my-profile-views-counter/svg/951446214/badge.svg)](https://nanaelie.github.io/my-profile-views-counter/readme/951446214/week.md)
+[![Profile views](https://komarev.com/ghpvc/?username=nanaelie&color=blue)](https://github.com/nanaelie)
 
 # 👋 Hello, I'm Elie!
 
