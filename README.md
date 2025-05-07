@@ -16,20 +16,20 @@ I'm a passionate developer with a focus on **Python**, automation, cybersecurity
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, Bash, JavaScript, HTML, CSS
-- **Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask, Django
+- **Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask
 - **OS**: Parrot Security OS, Linux-based distros
 - **Version Control**: Git, GitHub
 
 ## 📌 Current Projects
-- 🌍 **Web Development Projects**: Creating responsive and interactive websites.
-- 📢 **Ad Management System**: Automating Facebook Ads for better ROI.
-- ⚙️ **Python Mastery**: Expanding my knowledge to monetize my coding skills.
+- 🌍 **Web Development**: Building responsive, user-friendly websites with modern frameworks.  
+- 📢 **Ad Management Automation**: Developing a system to optimize and automate Facebook Ads for better ROI.  
+- ⚙️ **Python Monetization**: Deepening my Python expertise to create and sell practical tools and bots.
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nanaelie)
-- 🐦 [Twitter](https://twitter.com/Garcon_Serieuxx)
+- 🐦 [Twitter](https://twitter.com/@nae_devp)
+- 📸 [Instagram](https://www.instagram.com/nanaelie.nae)
 - 📫 Email: elienana92@gmail.com
-
 
 Let's build something amazing together! 🚀
 
