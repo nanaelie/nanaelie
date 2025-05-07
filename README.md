@@ -1,3 +1,38 @@
+#
+
+<p>
+  <a href="#">
+    <img align="right" src="https://komarev.com/ghpvc/?username=nanaelie&label=Visitors&color=0e75b6&style=flat" alt="Profile Visitor" />
+  </a>
+
+  <a href="#">
+    <img align="left" src="https://user-badge.committers.top/burkina_faso_public/nanaelie.svg" alt="My rank" />
+  </a>
+</p>
+
+<br />
+
+<i>
+  <h3 align="center">
+    <samp>&gt; Hello, I'm <b>Elie!</b></samp>
+  </h3>
+
+  <p align="center">
+    <samp>
+      「 I am Python and Web Developer 」<br/><br/>
+      <a href="https://www.google.com/search?q=nanaelie">「 Google Me 」</a>
+    </samp>
+  </p>
+</i>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate developer with a focus on **Python**, automation, cybersecurity, and web development. I use **Parrot Security OS** as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
+
+## 💡 What I Do
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -18,44 +53,65 @@
   <img src="https://img.shields.io/badge/Wokwi-27AE60?logo=arduino&logoColor=white&style=for-the-badge" />
 </p>
 
----
-
-# 👋 Hello, I'm Elie!
-
-## 🚀 About Me
-I'm a passionate developer with a focus on **Python**, automation, cybersecurity, and web development. I use **Parrot Security OS** as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
-
-## 💡 What I Do
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-- 🐍 **Python Development**: Automating tasks, web scraping, and backend development.
-- 🌐 **Web Development**: Building dynamic websites and applications.
-- 🔐 **Cybersecurity & Ethical Hacking**: Enhancing security and exploring vulnerabilities.
-- 📊 **Data Collection & Analysis**: Extracting and processing valuable information.
-- 📢 **Digital Marketing**: Running Facebook Ads for product visibility.
+- 🐍&emsp;**Python Development**: Automating tasks, web scraping, and backend development.
+- 🌐&emsp;**Web Development**: Building dynamic websites and applications.
+- 🔐&emsp;**Cybersecurity & Ethical Hacking**: Enhancing security and exploring vulnerabilities.
+- 📊&emsp;**Data Collection & Analysis**: Extracting and processing valuable information.
+- 📢&emsp;**Digital Marketing**: Running Facebook Ads for product visibility.
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, Bash, JavaScript, HTML, CSS
-- **Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask
-- **OS**: Parrot Security OS, Linux-based distros
-- **Version Control**: Git, GitHub
+
+- &emsp;**Languages**: Python, Bash, JavaScript, HTML, CSS
+- &emsp;**Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask
+- &emsp;**OS**: Parrot Security OS, Linux-based distros
+- &emsp;**Version Control**: Git, GitHub
 
 ## 📌 Current Projects
-- 🌍 **Web Development**: Building responsive, user-friendly websites with modern frameworks.  
-- 📢 **Ad Management Automation**: Developing a system to optimize and automate Facebook Ads for better ROI.  
-- ⚙️ **Python Monetization**: Deepening my Python expertise to create and sell practical tools and bots.
+
+- 🌍&emsp;**Web Development**: Building responsive, user-friendly websites with modern frameworks.  
+- 📢&emsp;**Ad Management Automation**: Developing a system to optimize and automate Facebook Ads for better ROI.  
+- ⚙️&emsp;**Python Monetization**: Deepening my Python expertise to create and sell practical tools and bots.
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nanaelie)
-- 🐦 [Twitter](https://twitter.com/@nae_devp)
-- 📸 [Instagram](https://www.instagram.com/nanaelie.nae)
-- 📫 Email: elienana92@gmail.com
 
+<p align="center">
 Let's build something amazing together! 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nanaelie" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-3775A9?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+
+  <a href="https://twitter.com/@nae_devp" target="_blank" >
+    <img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+
+  <a href="https://twitter.com/@nae_devp" target="_blank" >
+    <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+
+  <a href="mailto:nae.devp@gmail.com" target="_blank" >
+    <img src="https://img.shields.io/badge/Mail_Me-green?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+  
+</p>
 
 ## GitHub Stats 🌱
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanaelie&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=nanaelie&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nanaelie&theme=transparent&hide_border=false)<br/>
+
+<p align="center">
+  <a href="https://github.com/nanaelie">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanaelie&theme=radical&border=7F3FBF&background=0D1117" alt="Nana Elie's GitHub streak"/>
+  </a>
+  <a href="https://github.com/nanaelie">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanaelie&theme=radical" alt="Nana Elie's GitHub Contribution"/>
+  </a>
+</p>
+
+<a>
+    <a href="https://github.com/nanaelie"><img alt="Nana Elie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nanaelie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/nanaelie"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nanaelie&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Nana Elie's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nanaelie&custom_title=Nana%20Elie's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
