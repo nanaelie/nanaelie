@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update profile views
-        uses: gayanvoice/my-profile-views-counter@main
+        uses: nanaelie/my-profile-views-counter@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
