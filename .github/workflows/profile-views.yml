@@ -1,7 +1,7 @@
 name: Profile views counter
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # Mise à jour toutes les heures
   workflow_dispatch:
 
 jobs:
@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update profile views
-        uses: gayanvoice/my-profile-views-counter@v1.0.0
+        uses: gayanvoice/my-profile-views-counter@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
