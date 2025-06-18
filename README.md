@@ -79,7 +79,7 @@
   🛠️ Tech Stack
 </h1>
 
-- &emsp;**Languages**: Python, Bash, JavaScript, HTML, CSS
+- &emsp;**Languages**: Python, Bash, JavaScript, HTML, CSS, React, C/C++
 - &emsp;**Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask
 - &emsp;**OS**: Parrot Security OS, Linux-based distros
 - &emsp;**Version Control**: Git, GitHub
