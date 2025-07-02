@@ -30,7 +30,7 @@
 <br />
 
 <h1 align="center">
-  🚀 About Me
+  About Me
 </h1>
 
 <p align="center">
@@ -40,7 +40,7 @@
 <br />
 
 <h1 align="center">
-  💡 What I Do
+  What I Do
 </h1>
 
 <p align="center">
@@ -67,16 +67,16 @@
 
 <br />
 
-- 🐍&emsp;**Python Development**: Automating tasks, web scraping, and backend development.
-- 🌐&emsp;**Web Development**: Building dynamic websites and applications.
-- 🔐&emsp;**Cybersecurity & Ethical Hacking**: Enhancing security and exploring vulnerabilities.
-- 📊&emsp;**Data Collection & Analysis**: Extracting and processing valuable information.
-- 📢&emsp;**Digital Marketing**: Running Facebook Ads for product visibility.
+- &emsp;**Python Development**: Automating tasks, web scraping, and backend development.
+- &emsp;**Web Development**: Building dynamic websites and applications.
+- &emsp;**Cybersecurity & Ethical Hacking**: Enhancing security and exploring vulnerabilities.
+- &emsp;**Data Collection & Analysis**: Extracting and processing valuable information.
+- &emsp;**Digital Marketing**: Running Facebook Ads for product visibility.
 
 <br />
 
 <h1 align="center">
-  🛠️ Tech Stack
+  Tech Stack
 </h1>
 
 - &emsp;**Languages**: Python, Bash, JavaScript, HTML, CSS, React, C/C++
@@ -87,17 +87,17 @@
 <br />
 
 <h1 align="center">
-  📌 Current Projects
+  Current Projects
 </h1>
 
-- 🌍&emsp;**Web Development**: Building responsive, user-friendly websites with modern frameworks.  
-- 📢&emsp;**Ad Management Automation**: Developing a system to optimize and automate Facebook Ads for better ROI.  
-- ⚙️&emsp;**Python Monetization**: Deepening my Python expertise to create and sell practical tools and bots.
+- &emsp;**Web Development**: Building responsive, user-friendly websites with modern frameworks.  
+- &emsp;**Ad Management Automation**: Developing a system to optimize and automate Facebook Ads for better ROI.  
+- &emsp;**Python Monetization**: Deepening my Python expertise to create and sell practical tools and bots.
 
 <br />
 
 <h1 align="center">
-  🌍 Connect with Me
+  Connect with Me
 </h1>
 
 <p align="center">Let's build something amazing together! 🚀</p>
@@ -120,7 +120,7 @@
 <br />
 
 <h1 align="center">
-  GitHub Stats 🌱
+  GitHub Stats
 </h1>
 
 <p align="center">
