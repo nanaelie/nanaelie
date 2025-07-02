@@ -123,7 +123,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanaelie&border=7F3FBF&background=0D1117" alt="Nana Elie's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanaelie&theme=radical&border=7F3FBF&background=0D1117" alt="Nana Elie's GitHub streak"/>
   </a>
   <a href="#">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanaelie&theme=radical" alt="Nana Elie's GitHub Contribution"/>
