@@ -63,37 +63,6 @@
   <img src="https://img.shields.io/badge/Wokwi-27AE60?logo=arduino&logoColor=white&style=for-the-badge" />
 </p>
 
-<br />
-
-- &emsp;**Python Development**: Automating tasks, web scraping, and backend development.
-- &emsp;**Web Development**: Building dynamic websites and applications.
-- &emsp;**Cybersecurity & Ethical Hacking**: Enhancing security and exploring vulnerabilities.
-- &emsp;**Data Collection & Analysis**: Extracting and processing valuable information.
-- &emsp;**Digital Marketing**: Running Facebook Ads for product visibility.
-
-<br />
-
-<h1 align="center">
-  Tech Stack
-</h1>
-
-- &emsp;**Languages**: Python, Bash, JavaScript, HTML, CSS, React, C/C++
-- &emsp;**Tools & Frameworks**: Selenium, BeautifulSoup, Scrapy, Pandas, Flask
-- &emsp;**OS**: Parrot Security OS, Linux-based distros
-- &emsp;**Version Control**: Git, GitHub
-
-<br />
-
-<h1 align="center">
-  Current Projects
-</h1>
-
-- &emsp;**Web Development**: Building responsive, user-friendly websites with modern frameworks.  
-- &emsp;**Ad Management Automation**: Developing a system to optimize and automate Facebook Ads for better ROI.  
-- &emsp;**Python Monetization**: Deepening my Python expertise to create and sell practical tools and bots.
-
-<br />
-
 <h1 align="center">
   Connect with Me
 </h1>
@@ -121,22 +90,13 @@
   GitHub Stats
 </h1>
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanaelie&theme=radical&border=7F3FBF&background=0D1117" alt="Nana Elie's GitHub streak"/>
-  </a>
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanaelie&theme=radical" alt="Nana Elie's GitHub Contribution"/>
-  </a>
-</p>
-
-<a>
-    <a href="#">
-      <img alt="Nana Elie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nanaelie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    </a>
-    <a href="#">
-      <img alt="Nana Elie's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nanaelie&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    </a>
+<a href="#">
+  <img alt="Nana Elie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nanaelie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
 
-![Nana Elie's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nanaelie&custom_title=Nana%20Elie's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br />
+
+<a href="#">
+  <img alt="Nana Elie's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nanaelie&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="320px"/>
+</a>
+
