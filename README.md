@@ -32,7 +32,7 @@
 </h1>
 
 <p align="center">
-  I'm a passionate developer with a focus on <b>Python</b>, automation, cybersecurity, and web development.<br />I use <b>Parrot Security OS</b> as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
+  I'm a passionate developer with a focus on <b>Python</b>, automation, cybersecurity, and web development.<br />I use <b>Kali Linux OS</b> as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
 </p>
 
 <br />
