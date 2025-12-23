@@ -31,8 +31,19 @@
   About Me
 </h1>
 
-<p align="center">
-  I'm a passionate developer with a focus on <b>Python</b>, automation, cybersecurity, and web development.<br />I use <b>Kali Linux OS</b> as my main environment and love working on projects that involve data scraping, automation, AI, and web technologies.
+<p >
+    Passionate about designing and building useful and sustainable digital 
+solutions, I develop websites, APIs, and software tools aimed
+at solving real-world problems, whether technical or user-oriented.
+
+I work on automation, data processing and extraction projects, as well 
+as on services designed to simplify complex or repetitive tasks. My 
+approach is based on a clear understanding of the problem, thoughtful 
+system design, and a strong focus on reliability and maintainability.
+  
+Through my projects, I strive to deliver real value by building 
+efficient, scalable, and easy-to-use solutions, while continuously 
+improving my skills and my overall vision of software development.
 </p>
 
 <br />
@@ -73,10 +84,10 @@
   <a href="https://www.linkedin.com/in/nanaelie" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-3775A9?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/@nae_devp" target="_blank" >
+  <a href="https://twitter.com/@pyfs_dev" target="_blank" >
     <img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/nanaelie.nae" target="_blank" >
+  <a href="https://instagram.com/pyfs.dev" target="_blank" >
     <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="mailto:nae.devp@gmail.com" target="_blank" >
