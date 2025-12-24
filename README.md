@@ -74,40 +74,5 @@ improving my skills and my overall vision of software development.
   <img src="https://img.shields.io/badge/Wokwi-27AE60?logo=arduino&logoColor=white&style=for-the-badge" />
 </p>
 
-<h1 align="center">
-  Connect with Me
-</h1>
-
 <p align="center">Let's build something amazing together! 🚀</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nanaelie" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-3775A9?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/@pyfs_dev" target="_blank" >
-    <img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/pyfs.dev" target="_blank" >
-    <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="mailto:nae.devp@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/Mail_Me-green?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
-  </a>
-</p>
-
-<br />
-
-<h1 align="center">
-  GitHub Stats
-</h1>
-
-<a href="#">
-  <img alt="Nana Elie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nanaelie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-</a>
-
-<br />
-
-<a href="#">
-  <img alt="Nana Elie's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nanaelie&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="320px"/>
-</a>
 
