@@ -76,3 +76,4 @@ improving my skills and my overall vision of software development.
 
 <p align="center">Let's build something amazing together! 🚀</p>
 
+[![Check out nanaelie's profile on stardev.io](https://stardev.io/developers/nanaelie/badge/languages/global.svg)](https://stardev.io/developers/nanaelie)
