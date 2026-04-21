@@ -47,7 +47,7 @@ improving my skills and my overall vision of software development.
 </p>
 
 <br />
-
+<!--
 <h1 align="center">
   What I Do
 </h1>
@@ -75,3 +75,4 @@ improving my skills and my overall vision of software development.
 </p>
 
 <p align="center">Let's build something amazing together! 🚀</p>
+-->
